@@ -1,0 +1,25 @@
+{
+  "name": "koa-middleware-logger",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilijialiang/koa-middleware-logger.git"
+  },
+  "author": "lijialiang@yy.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilijialiang/koa-middleware-logger/issues"
+  },
+  "homepage": "https://github.com/lilijialiang/koa-middleware-logger#readme",
+  "dependencies": {
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {
+    "koa": "^2.6.2"
+  }
+}
