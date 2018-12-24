@@ -1,5 +1,5 @@
 {
-  "name": "koa-middleware-logger",
+  "name": "koaman-logger",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilijialiang/koa-middleware-logger.git"
+    "url": "git+https://github.com/lilijialiang/koaman-logger.git"
   },
   "author": "lijialiang@yy.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lilijialiang/koa-middleware-logger/issues"
+    "url": "https://github.com/lilijialiang/koaman-logger/issues"
   },
-  "homepage": "https://github.com/lilijialiang/koa-middleware-logger#readme",
+  "homepage": "https://github.com/lilijialiang/koaman-logger#readme",
   "dependencies": {
     "log4js": "^3.0.6"
   },

@@ -1,20 +1,20 @@
-# koa-middleware-logger
+# koaman-logger
 
 ## Install
 
 ```sh
-npm i koa-middleware-logger
+npm i koaman-logger
 
 # or
 
-yarn add koa-middleware-logger
+yarn add koaman-logger
 ```
 
 ## How to use
 
 ```js
 const Koa = require('koa')
-const logger = require('koa-middleware-logger')
+const logger = require('koaman-logger')
 
 const app = new Koa()
 
